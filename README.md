@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on: [https://github.com/therealsheero/RAG-on-Loan-Approval]
+- 🔭 I’m currently working on: [[RAG on Loan Approval](https://github.com/therealsheero/RAG-on-Loan-Approval)]
 - 🌱 I’m learning: [Tech you're learning]
 - 📫 How to reach me: [Your email or social links]
 - 💬 Ask me about: [What topics you love talking about]
