@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on: [RAG](https://github.com/therealsheero/RAG-on-Loan-Approval)
-- 📫 How to reach me: [Mail](shreeya2005pandey@gmail.com)
+- 📫 How to reach me: [Mail](mailto:shreeya2005pandey@gmail.com)
 - 💬 Ask me about: 
 
 ## 🏆 GitHub Trophies
