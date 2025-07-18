@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I am Shreeya Pandey</h1>
 
-Welcome to my GitHub profile!
+<h2 align="center">I'm an AI Developer (more like researcher)</h2>
 
 - 🔭 I’m currently working on [RAG](https://github.com/therealsheero/RAG-on-Loan-Approval)
 - 📫 How to reach me [Mail](mailto:shreeya2005pandey@gmail.com)
