@@ -1,4 +1,4 @@
-# Hi, I'm Shreeya 👋
+<p align="center">Hello! I am Shreeya Pandey</p>
 
 Welcome to my GitHub profile!
 
