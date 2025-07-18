@@ -3,6 +3,18 @@
 <h2 align="center">I'm an AI Developer (more like researcher)</h2>
 
 - 🔭 I’m currently working on [RAG](https://github.com/therealsheero/RAG-on-Loan-Approval)
+
+
+
+
+
+
+
+
+
+
+
+
 - 📫 How to reach me [Mail](mailto:shreeya2005pandey@gmail.com)
 - 💬 Ask me about **ComputerVision** **NLP** **Tensorflow** **PyTorch** **LLM** **ML Models**
 - 📃 Check out my [Resume](https://drive.google.com/file/d/18l3X103ZeH9_FSwz8_j68BFb85QlzPqS/view?usp=sharing)
