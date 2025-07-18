@@ -1,4 +1,4 @@
-<p align="center">Hello! I am Shreeya Pandey</p>
+<h1 align="center">Hello! I am Shreeya Pandey</h1>
 
 Welcome to my GitHub profile!
 
