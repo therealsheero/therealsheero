@@ -36,15 +36,6 @@
   
   <!-- Web Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30" alt="Streamlit" />
-
-  <!-- Not standard icons but important tools -->
-  <img src="https://img.shields.io/badge/MediaPipe-FF9800?style=for-the-badge&logo=google&logoColor=white" height="30" alt="MediaPipe" />
-  <img src="https://img.shields.io/badge/GenAI-6C63FF?style=for-the-badge&logo=OpenAI&logoColor=white" height="30" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/RAG-%23FFB300?style=for-the-badge&logo=databricks&logoColor=black" height="30" alt="RAG" />
-  <img src="https://img.shields.io/badge/LLM-%23555555?style=for-the-badge&logo=OpenAI&logoColor=white" height="30" alt="LLM" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-007ACC?style=for-the-badge&logo=scikitlearn&logoColor=white" height="30" alt="ML" />
-  <img src="https://img.shields.io/badge/Vector%20Databases-00BFA6?style=for-the-badge&logo=databricks&logoColor=white" height="30" alt="Vector DB" />
 </p>
 
 
