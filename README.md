@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋, I am Shreeya Pandey</h1>
-
+---
 <h2 align="center">I'm an AI Developer (more like researcher)</h2>
-
+---
 - 🔭 I’m currently working on [RAG](https://github.com/therealsheero/RAG-on-Loan-Approval)
 
 
@@ -19,8 +19,8 @@
 
 
 
-
-<h2 align="center">🛠️ Languages and Tools</h2>
+## Language and Tools
+---
 <p align="center">
   <!-- Core Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
@@ -56,7 +56,7 @@
 ![User Content](https://github-readme-stats.vercel.app/api/top-langs/?username=therealsheero&layout=compact&theme=onedark)
 
 ## Connect with me
-
+---
 <p align="center">
   <a href="mailto:shreeya2005pandey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/therealsheero/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
