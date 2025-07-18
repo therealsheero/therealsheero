@@ -3,8 +3,8 @@
 Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on: [RAG](https://github.com/therealsheero/RAG-on-Loan-Approval)
-- 📫 How to reach me: [Your email or social links]
-- 💬 Ask me about: [What topics you love talking about]
+- 📫 How to reach me: [Mail](shreeya2005pandey@gmail.com)
+- 💬 Ask me about: 
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=therealsheero&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
