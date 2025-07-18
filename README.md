@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on: [RAG](https://github.com/therealsheero/RAG-on-Loan-Approval)
 - 📫 How to reach me: [Mail](mailto:shreeya2005pandey@gmail.com)
-- 💬 Ask me about: 
+- 💬 Ask me about: **ComputerVision** **NLP** **Tensorflow** **PyTorch** **LLM** **ML Models**
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=therealsheero&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
