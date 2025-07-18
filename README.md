@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Shreeya 👋
 
-<!--
-**therealsheero/therealsheero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: [https://github.com/therealsheero/RAG-on-Loan-Approval]
+- 🌱 I’m learning: [Tech you're learning]
+- 📫 How to reach me: [Your email or social links]
+- 💬 Ask me about: [What topics you love talking about]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=therealsheero&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=therealsheero&show_icons=true&theme=onedark)
+
