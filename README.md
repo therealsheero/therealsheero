@@ -1,4 +1,4 @@
-![Alt Text](./2.gif)
+![Alt Text](./1.gif)
 
 <h1 align="center">Hello👋, I am Shreeya Pandey</h1>
 
