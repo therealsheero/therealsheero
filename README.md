@@ -46,13 +46,6 @@
 </p>
 
 
-
-
-
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?therealsheero=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=therealsheero&show_icons=true&theme=onedark)
 ![User Content](https://github-readme-stats.vercel.app/api/top-langs/?username=therealsheero&layout=compact&theme=onedark)
 
