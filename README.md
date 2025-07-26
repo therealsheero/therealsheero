@@ -45,10 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
 </p>
 
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=therealsheero&show_icons=true&theme=onedark)
-![User Content](https://github-readme-stats.vercel.app/api/top-langs/?username=therealsheero&layout=compact&theme=onedark)
-
 ## Connect with me
 
 <p align="center">
@@ -57,3 +53,7 @@
   <a href="https://github.com/therealsheero"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com/therealsheero"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=therealsheero&show_icons=true&theme=onedark)
+![User Content](https://github-readme-stats.vercel.app/api/top-langs/?username=therealsheero&layout=compact&theme=onedark)
+
