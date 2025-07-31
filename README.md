@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm an AI Developer (more like researcher)</h3>
 
-- 🔭 I’m currently working on [RAG](https://github.com/therealsheero/RAG-on-Loan-Approval)
+- 🔭 I’m currently working on [AI in Biotech](https://github.com/therealsheero/SMILES-Property-Predictor)
 
 
 
