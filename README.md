@@ -16,7 +16,7 @@
 
 
 
-- 📃 Check out my [Resume](https://drive.google.com/file/d/18l3X103ZeH9_FSwz8_j68BFb85QlzPqS/view?usp=sharing)
+- 📃 Check out my [Resume](https://drive.google.com/file/d/1hQEKiAsRZQdbTqrkI2mLUbSKyKLmeBz7/view?usp=sharing)
 
 
 
