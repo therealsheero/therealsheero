@@ -7,6 +7,9 @@
 - 🔭 I’m currently working on [AI in Biotech](https://github.com/therealsheero/BioMedGPT)
 
 
+- 📃 Research Paper on Brain Tumor Detection on IEEE Xplore [Paper](https://ieeexplore.ieee.org/document/1099116)
+
+
 
 - 📫 How to reach me [Mail](mailto:shreeya2005pandey@gmail.com)
 
