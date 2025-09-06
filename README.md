@@ -58,6 +58,6 @@
 </p>
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=therealsheero&show_icons=true&theme=onedark&cache_seconds=1800)
+![Your GitHub stats](https://camo.githubusercontent.com/21837d69c5a166c00427513af78580ea78c972a229dff0a824a961616abf4191/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d61637475616c6c79616b736861742673686f775f69636f6e733d74727565266c6f63616c653d656e)
 ![User Content](https://github-readme-stats.vercel.app/api/top-langs/?username=therealsheero&layout=compact&theme=onedark)
 
