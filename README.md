@@ -58,6 +58,6 @@
 </p>
 
 
-![Your GitHub stats]()
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=therealsheero&show_icons=true&theme=onedark)
 ![User Content](https://github-readme-stats.vercel.app/api/top-langs/?username=therealsheero&layout=compact&theme=onedark)
 
