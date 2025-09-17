@@ -58,6 +58,6 @@
 </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=therealsheero&show_icons=true&locale=en&theme=nord&cache_seconds=60)
-![User Content](https://github-readme-stats.vercel.app/api/top-langs/?username=therealsheero&layout=compact&theme=nord)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=therealsheero&show_icons=true&locale=en&theme=alduin&cache_seconds=60)
+![User Content](https://github-readme-stats.vercel.app/api/top-langs/?username=therealsheero&layout=compact&theme=alduin)
 
