@@ -1,4 +1,4 @@
-<img src="cycle.gif" width="300"/>
+<img src="cycle.gif" width="800"/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=therealsheero&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
