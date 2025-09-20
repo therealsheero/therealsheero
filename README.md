@@ -1,4 +1,4 @@
-<p> align = "centre">
+<p align = "centre">
   <img src="cycle.gif" width="800"/>
 </p>
 
