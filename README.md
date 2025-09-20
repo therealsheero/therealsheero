@@ -1,6 +1,6 @@
 ![Alt Text](./3.1.gif)
 
-![therealsheero](https://github-profile-trophy.vercel.app/?username=therealsheero&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=therealsheero&title=Commits,Repositories,Experience,Stars,Followers,Issues,MultiLanguage,Forks)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h1 align="center">Hello👋, I am Shreeya Pandey</h1>
 
