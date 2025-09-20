@@ -1,5 +1,7 @@
 ![Alt Text](./3.1.gif)
 
+![therealsheero](https://github-profile-trophy.vercel.app/?username=therealsheero&theme=onedark)
+
 <h1 align="center">Hello👋, I am Shreeya Pandey</h1>
 
 <h3 align="center">I'm an AI Developer (more like researcher)</h3>
@@ -60,5 +62,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=therealsheero&show_icons=true&locale=en&theme=onedark&cache_seconds=60)
 ![User Content](https://github-readme-stats.vercel.app/api/top-langs/?username=therealsheero&layout=compact&theme=onedark)
-![therealsheero](https://github-profile-trophy.vercel.app/?username=therealsheero&theme=onedark)
 
