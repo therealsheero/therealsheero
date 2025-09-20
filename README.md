@@ -1,4 +1,4 @@
-![Alt Text](./3.1.gif)
+![Alt Text](./cycle.gif)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=therealsheero&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
