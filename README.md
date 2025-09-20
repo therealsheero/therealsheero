@@ -1,4 +1,6 @@
-<img src="cycle.gif" width="800"/>
+<p> align = "centre">
+  <img src="cycle.gif" width="800"/>
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=therealsheero&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
