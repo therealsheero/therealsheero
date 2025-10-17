@@ -62,4 +62,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=therealsheero&show_icons=true&locale=en&theme=onedark&cache_seconds=60)
 ![User Content](https://github-readme-stats.vercel.app/api/top-langs/?username=therealsheero&layout=compact&theme=onedark)
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=therealsheero&)
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=therealsheero&theme=onedark)
