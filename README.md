@@ -64,5 +64,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=therealsheero&show_icons=true&locale=en&theme=onedark&cache_seconds=60" width="55%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealsheero&layout=compact&theme=onedark" width="40%">
 </p>
+
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=therealsheero&theme=onedark)
 
