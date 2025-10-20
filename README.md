@@ -62,8 +62,8 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=therealsheero&theme=onedark" width="80%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=therealsheero&theme=onedark" width="70%">
-  <img src="https://github-readme-stats.vercel.app/api?username=therealsheero&show_icons=true&locale=en&theme=onedark&cache_seconds=60" width="50%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=therealsheero&theme=onedark" width="65%">
+  <img src="https://github-readme-stats.vercel.app/api?username=therealsheero&show_icons=true&locale=en&theme=onedark&cache_seconds=60" width="60%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealsheero&layout=compact&theme=onedark" width="30%">
 </p>
 
