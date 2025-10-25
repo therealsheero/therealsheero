@@ -1,7 +1,5 @@
 ![Alt Text](./2.1.gif)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=therealsheero&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h1 align="center">Hello👋, I am Shreeya Pandey</h1>
 
 <h3 align="center">I'm an AI Developer (more like researcher)</h3>
