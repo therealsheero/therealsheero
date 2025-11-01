@@ -7,6 +7,9 @@
 - 🔭 I’m currently working on [AI in Biotech](https://github.com/therealsheero/BioMedGPT)
 
 
+- ‼️I'm looking for help in [BioMedGPT](https://github.com/therealsheero/BioMedGPT)
+
+
 - 📃 Research Paper on Brain Tumor Detection on IEEE Xplore [Paper](https://ieeexplore.ieee.org/document/10991161)
 
 
