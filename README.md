@@ -22,7 +22,7 @@
 
 
 
-- 📃 Check out my [Resume](https://drive.google.com/file/d/1hQEKiAsRZQdbTqrkI2mLUbSKyKLmeBz7/view?usp=sharing)
+- 📃 Check out my [Resume](https://drive.google.com/file/d/1D6VCVUZT7u1yfvz1X50omdIDp0lFpxQI/view?usp=sharing)
 
 
 
