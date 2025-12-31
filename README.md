@@ -27,6 +27,15 @@
 
 
 
+
+
+
+<p align="centre">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=therealsheero&theme=onedark">
+  <img src="https://github-readme-stats.vercel.app/api?username=therealsheero&show_icons=true&locale=en&theme=onedark&cache_seconds=60" width="55%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealsheero&layout=compact&theme=onedark" width="40%">
+</p>
+
 ## Language and Tools
 
 <p align="center">
@@ -52,12 +61,6 @@
 </p>
 
 
-
-<p align="centre">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=therealsheero&theme=onedark">
-  <img src="https://github-readme-stats.vercel.app/api?username=therealsheero&show_icons=true&locale=en&theme=onedark&cache_seconds=60" width="55%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealsheero&layout=compact&theme=onedark" width="40%">
-</p>
 
 ## Connect with me
 
