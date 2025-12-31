@@ -30,11 +30,7 @@
 
 
 
-<p align="centre">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=therealsheero&theme=onedark">
-  <img src="https://github-readme-stats.vercel.app/api?username=therealsheero&show_icons=true&locale=en&theme=onedark&cache_seconds=60" width="55%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealsheero&layout=compact&theme=onedark" width="40%">
-</p>
+
 
 ## Language and Tools
 
@@ -69,4 +65,10 @@
   <a href="https://www.linkedin.com/in/therealsheero/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/therealsheero/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://leetcode.com/therealsheero"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+</p>
+
+<p align="centre">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=therealsheero&theme=onedark">
+  <img src="https://github-readme-stats.vercel.app/api?username=therealsheero&show_icons=true&locale=en&theme=onedark&cache_seconds=60" width="55%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealsheero&layout=compact&theme=onedark" width="40%">
 </p>
