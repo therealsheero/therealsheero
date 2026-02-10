@@ -1,6 +1,6 @@
 ![Alt Text](./2.1.gif)
 
-<h1 align="center">Hello👋, I am Shreeya Pandey</h1>
+<h1 align="center">Hello👋, I'm Shreeya Pandey</h1>
 
 <h3 align="center">I'm an AI Developer (more like researcher)</h3>
 
