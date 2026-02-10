@@ -9,16 +9,12 @@
 - 📃 Conference Paper on Brain Tumor Detection on IEEE Xplore [Paper](https://ieeexplore.ieee.org/document/10991161)
 
 
-
 - 📫 How to reach me [Mail](mailto:shreeya2005pandey@gmail.com)
 
 
 
 - 💬 Ask me about **ComputerVision** **NLP** **Tensorflow** **PyTorch** **LLM** **ML Models**
 
-
-
-- 📃 Check out my [Resume](https://drive.google.com/file/d/1D6VCVUZT7u1yfvz1X50omdIDp0lFpxQI/view?usp=sharing)
 
 
 
