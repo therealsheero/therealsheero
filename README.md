@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=therealsheero&color=blue)
 ![Alt Text](./2.1.gif)
 
 <h1 align="center">Hello👋, I'm Shreeya Pandey</h1>
