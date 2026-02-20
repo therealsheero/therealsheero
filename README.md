@@ -1,9 +1,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=therealsheero&color=blue)
 ![Alt Text](./2.1.gif)
 
-<h1 align="center">Hello👋, I'm Shreeya Pandey</h1>
+<h1 align="left">Hello👋, I'm Shreeya Pandey</h1>
 
-<h3 align="center">I'm an AI Developer (more like researcher)</h3>
+<h3 align="left">I'm an AI Developer (more like researcher)</h3>
 
 - 📃 Conference Paper on Brain Tumor Detection on IEEE Xplore [Paper](https://ieeexplore.ieee.org/document/10991161)
 
@@ -25,7 +25,7 @@
 
 ## Language and Tools
 
-<p align="center">
+<p align="left">
   <!-- Core Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
@@ -51,7 +51,7 @@
 
 ## Connect with me
 
-<p align="center">
+<p align="left">
   <a href="mailto:shreeya2005pandey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/therealsheero/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/therealsheero/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -59,7 +59,7 @@
 
 </p>
 
-<p align="centre">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=therealsheero&theme=onedark">
   <img src="https://github-readme-stats.vercel.app/api?username=therealsheero&show_icons=true&locale=en&theme=onedark&cache_seconds=60" width="55%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealsheero&layout=compact&theme=onedark" width="40%">
