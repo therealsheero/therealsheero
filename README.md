@@ -59,7 +59,6 @@
   <!-- Production Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/>
   <img src="https://img.shields.io/badge/API-REST-green" />
-  <img src="https://raw.githubusercontent.com/pm2-hive/pm2-hive.github.io/master/static/img/pm2-logo.png" height="40" alt="PM2" />
 
 </p>
 
