@@ -53,7 +53,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40"/>
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat"/>
   <img src="https://www.rdkit.org/docs/_static/logo.png" height="40"/>
-  <img src="https://img.shields.io/badge/API-REST-green?style=flat"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" height="40"/>
 </p>
 
 
