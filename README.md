@@ -16,44 +16,39 @@
 
 
 ## Language and Tools
-
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
 
-  <!-- Data & ML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" style="background:white; padding:6px; border-radius:6px;" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" style="background:white; padding:6px; border-radius:6px;" alt="Pandas"/>
+<!-- Programming -->
+<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=sql" width="40" height="40"/></a>
 
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" style="background:white; padding:6px; border-radius:6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
+<!-- Data & ML -->
+<a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40"/></a>
 
-  <!-- Web -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
+<!-- Backend -->
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=express" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40"/></a>
 
-  <!-- Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
+<!-- Web -->
+<a href="#"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/></a>
 
-  <!-- Tools & Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" style="background:white; padding:6px; border-radius:6px;" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<!-- Database -->
+<a href="#"><img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40"/></a>
 
-  <!-- Extras -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40"/>
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat"/>
-  <img src="https://www.rdkit.org/docs/_static/logo.png" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" height="40"/>
+<!-- Tools & Cloud -->
+<a href="#"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=github" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=azure" width="40" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/></a>
+
 </p>
 
 
