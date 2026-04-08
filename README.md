@@ -50,9 +50,9 @@
 
   <!-- Extras -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat"/>
-  <img src="https://img.shields.io/badge/RDKit-4CAF50?style=flat"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/docs/static/img/faiss-logo.png" height="40"/>
+  <img src="https://www.rdkit.org/docs/_static/logo.png" height="40"/>
   <img src="https://img.shields.io/badge/API-REST-green?style=flat"/>
 </p>
 
