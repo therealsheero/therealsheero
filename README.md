@@ -49,11 +49,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
 
   <!-- Extras -->
-  <img src="https://img.shields.io/badge/Scikit--Learn-orange" />
-  <img src="https://img.shields.io/badge/Power%20BI-yellow" />
-  <img src="https://img.shields.io/badge/FAISS-blue" />
-  <img src="https://img.shields.io/badge/RDKit-green" />
-  <img src="https://img.shields.io/badge/API-REST-green" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat"/>
+  <img src="https://img.shields.io/badge/RDKit-4CAF50?style=flat"/>
+  <img src="https://img.shields.io/badge/API-REST-green?style=flat"/>
 </p>
 
 
