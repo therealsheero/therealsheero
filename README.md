@@ -11,7 +11,6 @@
 - How to reach me [Mail](mailto:shreeya2005pandey@gmail.com)
 
 
-
 - Ask me about **ComputerVision** **NLP** **Tensorflow** **PyTorch** **LLM** **ML Models**
 
 - Appreciation from CEO, UIDAI and Deputy Director General, RO Lucknow for my work [The Letter](https://drive.google.com/file/d/1QreQQpiMZJwgKs6lVkQk5Lhi-9WmJFcT/view?usp=sharing)
