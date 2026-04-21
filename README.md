@@ -23,9 +23,6 @@
 
 ## Connect with me
 <p align="left">
-  <a href="https://github.com/therealsheero" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="28" width="38" />
-  </a>
   <a href="mailto:shreeya2005pandey@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="28" width="38" />
   </a>
