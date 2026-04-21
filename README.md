@@ -22,12 +22,22 @@
 
 
 ## Connect with me
-
 <p align="left">
-  📫 <a href="mailto:shreeya2005pandey@gmail.com">Email</a> &nbsp;•&nbsp;
-  💼 <a href="https://www.linkedin.com/in/therealsheero/">LinkedIn</a> &nbsp;•&nbsp;
-  📸 <a href="https://www.instagram.com/therealsheero/">Instagram</a> &nbsp;•&nbsp;
-  📊 <a href="https://www.kaggle.com/therealsheero">Kaggle</a>
+  <a href="mailto:shreeya2005pandey@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="22" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/therealsheero/">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="22" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/therealsheero/">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="22" />
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/therealsheero">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="22" />
+  </a>
 </p>
 
 <p align="left">
