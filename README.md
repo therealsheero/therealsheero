@@ -24,11 +24,10 @@
 ## Connect with me
 
 <p align="left">
-  <a href="mailto:shreeya2005pandey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/therealsheero/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/therealsheero/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/therealsheero"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-
+  📫 <a href="mailto:shreeya2005pandey@gmail.com">Email</a> &nbsp;•&nbsp;
+  💼 <a href="https://www.linkedin.com/in/therealsheero/">LinkedIn</a> &nbsp;•&nbsp;
+  📸 <a href="https://www.instagram.com/therealsheero/">Instagram</a> &nbsp;•&nbsp;
+  📊 <a href="https://www.kaggle.com/therealsheero">Kaggle</a>
 </p>
 
 <p align="left">
