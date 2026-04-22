@@ -33,7 +33,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="28" width="38" />
   </a>
   <a href="https://www.kaggle.com/therealsheero" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="28" width="38" color="blue" " />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="28" width="38" color="blue" />
   </a>
 </p>
 
