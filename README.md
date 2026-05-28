@@ -25,14 +25,10 @@
 <p align="left">
   <a href="mailto:shreeya2005pandey@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="28" width="38" />
-  </a>
-  <a href="https://www.linkedin.com/in/therealsheero/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" width="38" />
-  </a>
-  <a href="https://www.instagram.com/therealsheero/" target="_blank">
+  </a><a href="https://www.linkedin.com/in/therealsheero/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" width="38" /></a><a href="https://www.instagram.com/therealsheero/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="28" width="38" />
-  </a>
-  <a href="https://www.kaggle.com/therealsheero" target="_blank">
+  </a><a href="https://www.kaggle.com/therealsheero" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="28" width="38"/>
   </a>
 </p>
